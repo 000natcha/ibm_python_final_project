@@ -1,5 +1,5 @@
 # Final Project
-These are the files for final project of the course ["Python Project for Data Engineering"](https://www.coursera.org/learn/python-project-for-data-engineering) offered by IBM on Coursera.
+These are the files for the final project of the course ["Python Project for Data Engineering"](https://www.coursera.org/learn/python-project-for-data-engineering) offered by IBM on Coursera.
 
 ## Overview
 ### Project Scenario
